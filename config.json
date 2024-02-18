@@ -1,0 +1,8 @@
+{
+    "OPENAI_API_KEY": "None",
+    "OPENAI_API_BASE": "http://localhost:1234/v1",
+    "MODEL": "None",
+    "TEMPERATURE": 0.7,
+    "SEED": 47,
+    "TIMEOUT": 6000
+}
